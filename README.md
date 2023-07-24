@@ -94,3 +94,14 @@ leyenda:
 
 fatality: yes = 1 : no = 0
 sex: Male = 1 : Female = 0
+
+
+# 3. Analisis
+
+![My Image](./images/plot2.png)
+
+![My Image](./images/plot3.png)
+
+![My Image](./images/plot1.png)
+
+*commit 12*
